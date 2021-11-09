@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\bin\Debug\net5.0\MedthodExercise.exe
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\bin\Debug\net5.0\MedthodExercise.deps.json
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\bin\Debug\net5.0\MedthodExercise.runtimeconfig.json
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\bin\Debug\net5.0\MedthodExercise.runtimeconfig.dev.json
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\bin\Debug\net5.0\MedthodExercise.dll
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\bin\Debug\net5.0\ref\MedthodExercise.dll
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\bin\Debug\net5.0\MedthodExercise.pdb
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\obj\Debug\net5.0\MedthodExercise.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\obj\Debug\net5.0\MedthodExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\obj\Debug\net5.0\MedthodExercise.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\obj\Debug\net5.0\MedthodExercise.AssemblyInfo.cs
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\obj\Debug\net5.0\MedthodExercise.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\obj\Debug\net5.0\MedthodExercise.dll
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\obj\Debug\net5.0\ref\MedthodExercise.dll
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\obj\Debug\net5.0\MedthodExercise.pdb
+C:\Users\User\Desktop\repos\MedthodExercise\MedthodExercise\obj\Debug\net5.0\MedthodExercise.genruntimeconfig.cache
